@@ -1,0 +1,19 @@
+{
+    "name": "My PWA",
+    "short_name": "PWA",
+    "start_url": "/",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/assets/clock.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/favicon.png",
+            
+            "type": "image/png"
+        }
+    ]
+}
